@@ -15,6 +15,6 @@ THE POINT OF POSTING THIS DASHBOARD IS TO LET THE COMMUNITY KNOW ITS POSSIBLE TO
 
 IF YOU WOULD LIKE TO HELP REACH OUT TO US ON DISCORD https://discord.gg/xbl
 
-Cource code soon.
+Source code soon.
 
 <img width="1549" height="866" alt="Screenshot 2026-06-11 at 10 33 28 PM" src="https://github.com/user-attachments/assets/1c1c2c50-f0ea-441f-bcc2-00f99e33c191" />
